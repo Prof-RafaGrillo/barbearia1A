@@ -18,3 +18,7 @@ p{
 #banner{
     width: 100%;
 }
+
+#conteudo{
+    display: flex;
+}
